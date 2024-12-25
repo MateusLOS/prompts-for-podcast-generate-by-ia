@@ -35,7 +35,13 @@ Este projeto utiliza Inteligência Artificial para criar um podcast focado em en
 ## 🎨 Como o Podcast Foi Criado?  
 1. **Roteiro**: Geração de um roteiro imersivo com dicas, estratégias e curiosidades sobre o jogo Marvel Rivals.  
 2. **Áudio**: Conversão do roteiro em áudio por meio da Google NotebookLM.     
+---
 
+## 📚 Links do Audio 
+- **Link do audio**: [https://github.com/MateusLOS/prompts-for-podcast-generate-by-ia/blob/2511555ac60f2029b7e6061a9f77614c0c3bde7c/An%C3%A1lise%20de%20Gameplay%20de%20Marvel%20Rivals%20(1).wav]  
+
+
+---
 
 
 
